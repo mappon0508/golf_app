@@ -66,3 +66,6 @@ YouTubeやネットなどには沢山の上達に繋がる情報があります�
 
 ### 画面遷移図
 Figma：https://www.figma.com/file/Z9aio9VbEiXMpdq4iuW1z3/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=sCyAGn28EXlreu3H-1
+
+### ER図
+drow.io: https://drive.google.com/file/d/1EDc7eDT68y7Y3ycdI0ggkB1n13LtENLo/view?usp=sharing
